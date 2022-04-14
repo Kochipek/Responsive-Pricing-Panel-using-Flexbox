@@ -3,5 +3,7 @@
 Pricing panel project from Colt Steele's Udemy course.
 <hr>
 
-![pricingPanelProject](https://user-images.githubusercontent.com/52817694/163348343-0251fef5-9904-4e49-bc4b-cb958e062cc4.png)
+![Pricing-panel-project](https://user-images.githubusercontent.com/52817694/163350818-5de42260-dff9-4765-b506-10c9e13ef9b1.jpg)
+
 <hr>
+
