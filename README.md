@@ -3,7 +3,7 @@
 Responsive pricing panel from Colt Steele's Udemy course.
 <hr>
 
-![Pricing-panel-project](https://user-images.githubusercontent.com/52817694/163350818-5de42260-dff9-4765-b506-10c9e13ef9b1.jpg)
+![pricing-table](https://user-images.githubusercontent.com/52817694/163351936-868a2fef-d2d3-409f-97ca-a503031659c3.jpg)
 
 <hr>
 
